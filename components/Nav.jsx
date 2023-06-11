@@ -32,7 +32,7 @@ function Nav() {
           height={30}
           className='object-contain'
         />
-         <p className='logo_text'>Promptopia</p>
+         <p className='logo_text'>Zambezi</p>
 
       </Link>
 
@@ -42,7 +42,7 @@ function Nav() {
           <div className="flex gap-3 md:gap-5">
              <Link href="/create-prompt"
              className="black_btn">
-                Create Post
+                List
              </Link>
              <button type="button" onClick={signOut} className="outline_btn">
                Sign Out
@@ -108,7 +108,7 @@ function Nav() {
                   className='dropdown_link'
                   onClick={() => setToggleDropdown(false)}
                 >
-                  Create Prompt
+                  List
                 </Link>
                 <button
                   type='button'
