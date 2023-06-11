@@ -8,8 +8,8 @@ const Home = () => (
       <span className='orange_gradient text-center'> Luxury Travel Accomodation</span>
     </h1>
     <p className='desc text-center'>
-      Zambezi is  Zambis leading luxury accomodation booking website. Browse our screened accomodation providerrs
-      and if you like the service book through our website or mobile app.
+      Zambezi is Zambia's leading luxury accomodation booking website. Browse our screened accomodation providers
+      and book through our website or mobile app. Becuase good sleep is impotant.
     </p>
 
     <Feed />
